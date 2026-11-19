@@ -1,4 +1,4 @@
-# arXiv:2609.30851: conversation records about AI assistance
+# arXiv:2609.30851: AI conversation logs
 
 This repository documents the use of generative AI in the research leading to the following paper:
 
